@@ -175,7 +175,3 @@ Future versions of this project could include:
 ---
 
 ## 👤 Shrouk
-
-Your Name
-
-Data Analytics / Machine Learning Portfolio Project
